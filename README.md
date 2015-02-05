@@ -1,6 +1,8 @@
 # InterviewQuestions_C_Sharp
 3 Basic interview type questions written in C# 
 
+See the screen shot
+
 // ############################################################################
 // Interview type questions 
 // 
